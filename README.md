@@ -2,7 +2,7 @@
 
 # usage
 ```
-bash getgdrive FILE_ID OUTPUT_NAME
+bash getgdrive.sh FILE_ID OUTPUT_NAME
 ```
 FILE_ID is the public id of the google drive file.
 
